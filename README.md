@@ -18,4 +18,4 @@
     6.	Once the quiz is finished, the user has the option to save their initials and scores.
 
  ![alt text](assets/images/IMG.jpeg)]
- ! [alt text](assets/images/IMG.png)]
+ ![alt text](assets/images/IMG.png)]
